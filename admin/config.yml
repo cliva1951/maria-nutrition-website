@@ -1,7 +1,7 @@
 # Requires a GitHub repository and configured OAuth authentication before use.
 backend:
   name: github
-  repo: REPLACE_WITH_GITHUB_USERNAME/REPLACE_WITH_REPOSITORY
+  repo: cliva1951/maria-nutrition-website
   branch: main
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
