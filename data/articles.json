@@ -1,1 +1,13 @@
-
+{
+  "articles": [
+    {
+      "id": "womens-health",
+      "title": "Fibroids, PCOS, Endometriosis and Painful Periods: What Role Does Nutrition Play?",
+      "category": "WOMEN'S HEALTH",
+      "excerpt": "How nutrition, metabolic health, liver function and gut microbiota fit into women's reproductive health.",
+      "published": true,
+      "image": "",
+      "body": "<p>Hormonal and metabolic health are connected, but these conditions do not all have the same cause.</p><h2>Different conditions, different causes</h2><p>Fibroids are influenced by ovarian hormones and tissue factors. Endometriosis is an estrogen-dependent inflammatory condition. PCOS often involves androgen excess and insulin resistance. Painful periods may reflect prostaglandin activity or a condition requiring assessment.</p><h2>Estrogen metabolism and the liver</h2><p>Liver enzymes transform estrogens (often described as phase I metabolism). Conjugation reactions, including glucuronidation and sulfation (phase II), help prepare metabolites for excretion. These are normal physiological pathways, not evidence that a person needs a detox diet.</p><h2>The gut microbiome</h2><p>Certain intestinal bacteria produce beta-glucuronidase, which can affect the reabsorption of estrogen metabolites. This area, sometimes called the estrobolome, is under active study; microbiome interventions are not established cures for gynecological conditions.</p><h2>Protein and dietary fats</h2><p>Adequate protein supports tissue maintenance and enzymes. A general adult reference intake is about 0.8 g/kg/day; physically active people may need more. Dietary fats supply essential fatty acids and support absorption of vitamins A, D, E and K. Extremely restrictive diets are not a treatment for hormonal conditions.</p><h2>Modern food and metabolic health</h2><p>Frequent sugary drinks and energy-dense ultra-processed foods can contribute to excess energy intake and metabolic problems. Insulin resistance is particularly relevant in PCOS. Sugar does not directly explain fibroids or endometriosis.</p><h2>What helps</h2><p>A balanced diet with sufficient protein, unsaturated fats and fiber, regular activity, sleep and appropriate medical evaluation. Persistent pelvic pain, heavy bleeding or irregular cycles should be assessed by a qualified clinician.</p><div class=\"notice\"><strong>Medical disclaimer:</strong> This article is for education and does not replace individualized medical advice, diagnosis or treatment.</div><p><small>Research references will be added after verification.</small></p>"
+    }
+  ]
+}
