@@ -1,1 +1,43 @@
 
+media:
+  input: images/uploads
+  output: /maria-nutrition-website/images/uploads
+
+content:
+  - name: articles
+    label: Статьи
+    type: file
+    path: data/articles.json
+    format: json
+    fields:
+      - name: articles
+        label: Статьи
+        type: object
+        list: true
+        fields:
+          - name: id
+            label: Уникальный адрес латиницей
+            type: string
+            required: true
+          - name: title
+            label: Заголовок
+            type: string
+            required: true
+          - name: category
+            label: Категория
+            type: string
+          - name: excerpt
+            label: Краткое описание
+            type: text
+          - name: published
+            label: Опубликовано
+            type: boolean
+            default: true
+          - name: image
+            label: Обложка
+            type: image
+          - name: body
+            label: Текст статьи
+            type: rich-text
+            options:
+              format: html
